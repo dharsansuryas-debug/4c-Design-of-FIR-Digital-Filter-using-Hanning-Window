@@ -41,7 +41,9 @@ title('Frequency Response of FIR LPF using Hanning Window');
 
 # OUTPUT: 
 
-<img width="717" height="572" alt="image" src="https://github.com/user-attachments/assets/3a9286d1-cb73-49dc-9ef6-1cd6c723efe5" />
+<img width="757" height="712" alt="image" src="https://github.com/user-attachments/assets/75ec6f5e-d905-479e-9fbf-00eacc7bb2af" />
+<img width="895" height="992" alt="image" src="https://github.com/user-attachments/assets/739c30a4-be1c-41af-a7ea-ae3c975280b3" />
+
 
 # RESULT: 
 
@@ -87,7 +89,9 @@ title('Frequency Response of FIR HPF using Hanning Window');
 
 # OUTPUT: 
 
-<img width="703" height="587" alt="image" src="https://github.com/user-attachments/assets/3b150a8b-492e-4b1d-a245-88fe9b95ad36" />
+<img width="752" height="717" alt="image" src="https://github.com/user-attachments/assets/9786bad4-2185-44ea-8200-5873e70793a6" />
+<img width="531" height="612" alt="image" src="https://github.com/user-attachments/assets/3ac3ab18-de7a-4faa-be73-aa1dbe53363f" />
+
 
 # RESULT: 
 Thus design of HIGH pass FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
@@ -133,7 +137,9 @@ title('Frequency Response of FIR BPF using Hanning Window');
 ```
 # OUTPUT: 
 
-<img width="710" height="582" alt="image" src="https://github.com/user-attachments/assets/f320db5e-9fc4-491c-b07a-9134b5642a4c" />
+<img width="758" height="717" alt="image" src="https://github.com/user-attachments/assets/1263dc8b-fe38-490a-ae64-291e478395ef" />
+<img width="717" height="631" alt="image" src="https://github.com/user-attachments/assets/994986ad-97bd-4d18-919f-813057e1c1e1" />
+
 
 # RESULT: 
 Thus design of BAND pass FIR digital filter using-Hanning-Window waveforms were plotted and output was verified.
@@ -178,7 +184,8 @@ ylabel('Magnitude in dB');
 title('Frequency Response of FIR BSF using Hanning Window');
 ```
 # OUTPUT: 
-<img width="717" height="580" alt="image" src="https://github.com/user-attachments/assets/f7b943cf-e6a2-47bc-a416-470e5d100e11" />
+<img width="755" height="722" alt="image" src="https://github.com/user-attachments/assets/76493892-7e59-465b-92cc-446bd58f2424" />
+<img width="721" height="695" alt="image" src="https://github.com/user-attachments/assets/a3a83d15-0ba4-4252-8e45-bbe0c8a3dedb" />
 
 
 # RESULT: 
